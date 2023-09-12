@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     private lazy var newText: UILabel = {
         let text = UILabel()
-        text.text = "some"
+        text.text = ""
         
         return text
     }()
